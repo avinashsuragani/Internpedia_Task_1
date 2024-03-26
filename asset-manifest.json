@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/Internpedia_Task_1/static/css/main.b2d37785.css",
+    "main.js": "/Internpedia_Task_1/static/js/main.cbebc4fd.js",
+    "static/js/453.a6a97343.chunk.js": "/Internpedia_Task_1/static/js/453.a6a97343.chunk.js",
+    "static/media/pc.webp": "/Internpedia_Task_1/static/media/pc.9ad3152e2ab2b1c3d07a.webp",
+    "index.html": "/Internpedia_Task_1/index.html",
+    "main.b2d37785.css.map": "/Internpedia_Task_1/static/css/main.b2d37785.css.map",
+    "main.cbebc4fd.js.map": "/Internpedia_Task_1/static/js/main.cbebc4fd.js.map",
+    "453.a6a97343.chunk.js.map": "/Internpedia_Task_1/static/js/453.a6a97343.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.b2d37785.css",
+    "static/js/main.cbebc4fd.js"
+  ]
+}
