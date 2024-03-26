@@ -1,0 +1,95 @@
+body {
+  font-family: Arial, sans-serif;
+  margin: 0;
+  padding: 0;
+  background-image: url('pc.webp'); 
+  background-size:cover ; 
+  background-position:40%; 
+ 
+}
+
+.container {
+  max-width: 600px;
+  margin: 200px auto;
+  padding: 40px;
+  background-color: rgba(5, 5, 5, 0.8); /* Add a semi-transparent white background to the container */
+
+}
+
+h1 {
+  text-align: center;
+  margin-bottom: 20px;
+  color: #6dc6e6;
+
+  
+}
+
+form {
+  display: flex;
+  margin-bottom: 20px;
+ 
+}
+
+
+.task-input {
+  flex: 1;
+  padding: 10px;
+  font-size: 16px;
+  border: 1px solid #fbf9f9;
+  border-radius: 5px 5px 5px 5px;
+}
+
+.button-container {
+  display: flex;
+  
+}
+
+button[type="submit"] {
+  padding: 10px 20px;
+  font-size: 16px;
+  border: none;
+  border-radius: 5px 5px 5px 5px;
+  background-color: #6dc6e6;
+  color: #fff;
+  cursor: pointer;
+  margin-left: 10px;
+}
+
+button[type="submit"]:hover {
+  background-color: #0a0a0a;
+}
+
+
+.task-table {
+  width: 100%;
+  border-collapse: collapse;
+}
+
+.task-table th,
+.task-table td {
+  padding: 10px;
+  border: 1px solid #ccc;
+}
+
+.task-table th {
+  background-color: #6dc6e6;
+  color: #fff;
+}
+
+.task-table td {
+  text-align: center;
+  color: white;
+}
+
+.task-table button {
+  background-color: #6dc6e6;
+  color: #fff;
+  border: none;
+  border-radius: 3px;
+  cursor: pointer;
+  margin-left: 50%;
+}
+
+.task-table button:hover {
+  background-color: #c82333;
+}
